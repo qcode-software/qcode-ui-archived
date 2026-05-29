@@ -9,8 +9,8 @@
         "jest": "^30.4.2",
         "jest-dev-server": "^11.0.0",
         "jest-puppeteer": "^11.0.0",
-        "puppeteer": "^10.2.0",
-        "puppeteer-core": "^10.2.0"
+        "puppeteer": "^25.1.0",
+        "puppeteer-core": "^25.1.0"
     },
     "dependencies": {}
 }
